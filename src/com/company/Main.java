@@ -1,6 +1,6 @@
 package com.company;
 /*
-Prompt the user to enter a string. AFter the user enters a string, output the same string bak to the console.
+Prompt the user to enter a string. After the user enters a string, output the same string bak to the console.
  */
 
 import java.util.Scanner;
